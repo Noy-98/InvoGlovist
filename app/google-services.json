@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977687316506",
+    "project_id": "invoglovistproj",
+    "storage_bucket": "invoglovistproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977687316506:android:f4baf70a406b646d4ea9a3",
+        "android_client_info": {
+          "package_name": "com.itech.invoglovist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkKOITnqnJ-vT5KyG00jc1mL2tgtJsXqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
